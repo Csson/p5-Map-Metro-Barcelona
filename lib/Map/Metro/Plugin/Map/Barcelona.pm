@@ -36,9 +36,29 @@ Map::Metro::Plugin::Map::Barcelona - Map::Metro map for Barcelona
 
 See L<Map::Metro> for usage information.
 
-=head1 Status
+=head1 STATUS
 
-...
+As of 2015-jan-04 it contains:
+
+* The eleven L-lines (L1 to L11). L<wikipedia|https://en.wikipedia.org/wiki/Barcelona_Metro>
+
+* The Tramvia blau. L<wikipedia|https://en.wikipedia.org/wiki/Tramvia_Blau>
+
+* Funicular del Tibidabo.  L<wikipedia|https://en.wikipedia.org/wiki/Funicular_del_Tibidabo>
+
+* Funicular de Montjuïc.  L<wikipedia|https://en.wikipedia.org/wiki/Funicular_de_Montju%C3%AFc>
+
+=head2 Notes
+
+* L9 and L10 stops at La Sagrera.
+
+* Tramvia blau only includes the two end-points.
+
+=begin HTML
+
+<p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Barcelona/master/static/images/barcelona.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Barcelona/master/static/images/barcelona.png" style="max-width: 600px" /></a></p>
+
+=end HTML
 
 =head1 AUTHOR
 

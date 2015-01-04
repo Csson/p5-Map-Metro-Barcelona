@@ -197,23 +197,25 @@ Tibidabo
 
 
 --lines
-L1|L1|Line 1
-L2|L2|Line 2
-L3|L3|Line 3
-L4|L4|Line 4
-L5|L5|Line 5
-L6|L6|Line 6
-L7|L7|Line 7
-L8|L8|Line 8
-L9|L|Line 9
-L10|L10|Line 10
-L11|L11|Line 11
-FM|FM|Funicular de Montjuïc
-FT|FT|Funicular del Tibidabo
-TB|TB|Tramvia Blau
+L1|L1|Line 1|color:#e1393e,width:7
+L2|L2|Line 2|color:#992f9c,width:7
+L3|L3|Line 3|color:#4fbf48,width:7
+L4|L4|Line 4|color:#febd10,width:7
+L5|L5|Line 5|color:#317bc8,width:7
+L6|L6|Line 6|color:#847dc6,width:10
+L7|L7|Line 7|color:#ad5414,width:10
+L8|L8|Line 8|color:#e659b4,width:10
+L9|L|Line 9|color:#f68429,width:7
+L10|L10|Line 10|color:#00adef,width:7
+L11|L11|Line 11|color:#9ed84c,width:7
+FM|FM|Funicular de Montjuïc|color:#2f8f28,width:4
+FT|FT|Funicular del Tibidabo|color:#444444,width:4
+TB|TB|Tramvia Blau|color:#0077dd,width:4
 
 --transfers
 Avinguda Tibidabo|Plaça Kennedy
+Provença|Diagonal
+Plaça Molina|Sant Gervasi
 
 --segments
 L1|Hospital de Bellvitge|Bellvitge
@@ -348,7 +350,6 @@ L6|Muntaner|La Bonanova
 L6|La Bonanova|Les Tres Torres
 L6|Les Tres Torres|Sarrià
 L6|Sarrià|Reina Elisenda
-L6|Reina Elisenda|
 
 L7|Gràcia|Plaça Molina
 L7|Plaça Molina|Pàdua
@@ -368,7 +369,6 @@ L8|Avinguda Carrilet|Almeda
 L8|Almeda|Cornellà-Riera
 L8|Cornellà-Riera|Sant Boi
 L8|Sant Boi|Molí Nou-Ciutat Cooperativa
-L8|Molí Nou-Ciutat Cooperativa|
 
 L9|Can Zam|Singuerlín
 L9|Singuerlín|Església Major
@@ -389,11 +389,3 @@ L11|Trinitat Nova|Casa de l'Aigua
 L11|Casa de l'Aigua|Torre Baró-Vallbona
 L11|Torre Baró-Vallbona|Ciutat Meridiana
 L11|Ciutat Meridiana|Can Cuiàs
-
-
-
-
-
-
-
-
