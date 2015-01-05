@@ -48,7 +48,7 @@ As of 2015-jan-04 it contains:
 
 * Funicular de Montjuïc.  L<wikipedia|https://en.wikipedia.org/wiki/Funicular_de_Montju%C3%AFc>
 
-See <Map::Metro::Plugin::Map::Barcelona::Lines>.
+See L<Map::Metro::Plugin::Map::Barcelona::Lines>.
 
 =head2 Notes
 
