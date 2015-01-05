@@ -6,14 +6,20 @@ Revision history for Map-Metro-Plugin-Map-Barcelona
  [Bug Fixes]
 
  [Documentation]
+ - Include line documentation (created with Dist::Zilla::Plugin::MapMetro::MakeLinePod).
 
  [Enhancements]
 
  [Meta]
-
+ 
  [New Features]
 
  [Revision]
+
+0.1001 2015-01-05T00:40:16Z CET
+ [Meta]
+ - Changed dist.ini to use @Iller.
+ - Added prereqs.
 
 0.1000 2015-01-04T17:13:55Z CET
  - Initial release
