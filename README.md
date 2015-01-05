@@ -23,6 +23,8 @@ As of 2015-jan-04 it contains:
 
 \* Funicular de Montjuïc.  [wikipedia](https://en.wikipedia.org/wiki/Funicular_de_Montju%C3%AFc)
 
+See <Map::Metro::Plugin::Map::Barcelona::Lines>.
+
 ## Notes
 
 \* L9 and L10 stops at La Sagrera.
