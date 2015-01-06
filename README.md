@@ -2,6 +2,10 @@
 
 Map::Metro::Plugin::Map::Barcelona - Map::Metro map for Barcelona
 
+# VERSION
+
+version 0.1006
+
 # SYNOPSIS
 
     use Map::Metro;
@@ -13,33 +17,31 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
 # STATUS
 
+See [Lines and stations](https://metacpan.org/pod/Map::Metro::Plugin::Map::Barcelona::Lines)
+
 As of 2015-jan-04 it contains:
 
-\* The eleven L-lines (L1 to L11). [wikipedia](https://en.wikipedia.org/wiki/Barcelona_Metro)
+\* The eleven L-lines (L1 to L11) \[[wikipedia](https://en.wikipedia.org/wiki/Barcelona_Metro)\]
 
-\* The Tramvia blau. [wikipedia](https://en.wikipedia.org/wiki/Tramvia_Blau)
+\* The _Tramvia Blau_ \[[wikipedia](https://en.wikipedia.org/wiki/Tramvia_Blau)\]
 
-\* Funicular del Tibidabo.  [wikipedia](https://en.wikipedia.org/wiki/Funicular_del_Tibidabo)
+\* _Funicular del Tibidabo_ \[[wikipedia](https://en.wikipedia.org/wiki/Funicular_del_Tibidabo)\]
 
-\* Funicular de Montjuïc.  [wikipedia](https://en.wikipedia.org/wiki/Funicular_de_Montju%C3%AFc)
-
-See [Map::Metro::Plugin::Map::Barcelona::Lines](https://metacpan.org/pod/Map::Metro::Plugin::Map::Barcelona::Lines).
+\* _Funicular de Montjuïc_ \[[wikipedia](https://en.wikipedia.org/wiki/Funicular_de_Montju%C3%AFc)\]
 
 ## Notes
 
-\* L9 and L10 stops at La Sagrera.
+\* L9 and L10 ends at La Sagrera.
 
-\* Tramvia blau only includes the two end-points.
+\* _Tramvia Blau_ only includes the two end-points.
 
 # AUTHOR
 
 Erik Carlsson <info@code301.com>
 
-# COPYRIGHT
+# COPYRIGHT AND LICENSE
 
-Copyright 2015 - Erik Carlsson
+This software is copyright (c) 2015 by Erik Carlsson <info@code301.com>.
 
-# LICENSE
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
