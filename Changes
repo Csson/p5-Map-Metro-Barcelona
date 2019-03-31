@@ -1,22 +1,32 @@
 Revision history for Map-Metro-Plugin-Map-Barcelona
 
 {{$NEXT}}
- [API Changes]
+ [Other Changes]
+ - Rebuilt with current dzil configuration.
 
+ [Bug Fixes]
+
+ [Documentation]
+
+ [Enhancements]
+
+ [Meta]
+
+ [New Features]
+
+ [Requirements]
+
+ [Revision]
+
+0.1007 2015-02-02T21:41:20Z CET
  [Bug Fixes]
  - Lines.pod replaces Lines.pm, and fixes version problem.
 
  [Documentation]
  - Cleanup, rebuilt with podweaver.
 
- [Enhancements]
-
  [Meta]
  - Now uses @Author::CSSON dist zilla bundle, expanded.
-
- [New Features]
-
- [Revision]
 
  [Requirements]
  - Bumped Map::Metro to 0.2206.
