@@ -4,7 +4,7 @@ package Map::Metro::Plugin::Map::Barcelona;
 
 # ABSTRACT: Map::Metro map for Barcelona
 # AUTHORITY
-our $VERSION = '0.1008';
+our $VERSION = '0.1009';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
